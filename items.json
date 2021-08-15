@@ -1,0 +1,21 @@
+[
+  {
+    "id": "jug_cooler",
+    "type": "CONTAINER",
+    "category": "container",
+    "name": { "str": "water cooler jug" },
+    "description": "A sizeable blue plastic jug meant to hold and supply water in a water cooler or similar dispenser. Holds a lot of liquid, but unfortunately it doesn't come with a cap, making it hard to carry around when full.",
+    "weight": "3740 g",
+    "volume": "20 L",
+	"looks_like": "jug_plastic",
+    "price": 0,
+    "price_postapoc": 10,
+    "to_hit": 1,
+    "material": "plastic",
+    "symbol": ")",
+    "color": "light_cyan",
+    "contains": "19000 ml",
+    "seals": false,
+    "watertight": true
+  }
+]
